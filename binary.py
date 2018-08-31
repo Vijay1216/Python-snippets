@@ -13,12 +13,3 @@ if __name__ == '__main__':
   while i>0:
    print (r[i-1])
    i -= 1
-
-
-
-
-
-
-
-
-
